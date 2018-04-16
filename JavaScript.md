@@ -3,5 +3,6 @@
 ---
 
 
-- alert(typeof null) 
+- alert(typeof null)   --object
+- alert(typeof undefined)  --undefined
 
