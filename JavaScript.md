@@ -1,1 +1,7 @@
 
+### JavaScript
+---
+
+
+- alert(typeof null) 
+
